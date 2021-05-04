@@ -1,0 +1,23 @@
+{
+  "name": "projekt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vojteq/wbudowane_meteo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vojteq/wbudowane_meteo/issues"
+  },
+  "homepage": "https://github.com/vojteq/wbudowane_meteo#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "python-shell": "^3.0.0"
+  }
+}
